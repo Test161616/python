@@ -11,7 +11,7 @@ device["version"] = "9.3(3)"
 device["ip"] = "10.1.1.1"
 
 # SIMPLE PRINT
-print("\n_____ SIMPLE PRINT ____________________")
+print("\n_____ SIMPLE PRINT X____________________")
 print("device:", device)
 print("device name:", device["name"])
 
